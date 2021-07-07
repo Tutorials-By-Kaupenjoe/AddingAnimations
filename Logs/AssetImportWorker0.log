@@ -1,0 +1,2348 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.10f1 (297d780c91bc) revision 2719096'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19041.1052; Version 2004; 64bit' Language: 'de' Physical Memory: 32682 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+D:\Unity Installations\2020.3.10f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+E:/YouTube/Unity/AddingAnimations
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+63204
+Successfully changed project path to: E:/YouTube/Unity/AddingAnimations
+E:/YouTube/Unity/AddingAnimations
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 38.14 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.10f1 (297d780c91bc)
+[Subsystems] Discovering subsystems at path D:/Unity Installations/2020.3.10f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path E:/YouTube/Unity/AddingAnimations/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2080 (ID=0x1e87)
+    Vendor:   
+    VRAM:     8010 MB
+    Driver:   27.21.14.5671
+Initialize mono
+Mono path[0] = 'D:/Unity Installations/2020.3.10f1/Editor/Data/Managed'
+Mono path[1] = 'D:/Unity Installations/2020.3.10f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'D:/Unity Installations/2020.3.10f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56616
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Unity Installations/2020.3.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.000934 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 39.88 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.842 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002299 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 37.31 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.972 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.63 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2081 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.0 MB.
+System memory in use after: 92.9 MB.
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 2515.
+Total: 2.147300 ms (FindLiveObjects: 0.217700 ms CreateObjectMapping: 0.047100 ms MarkObjects: 1.758700 ms  DeleteObjects: 0.122800 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_1.asset
+  artifactKey: Guid(9f1c186539d04ed4c9f0ab3c4115c0c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_1.asset using Guid(9f1c186539d04ed4c9f0ab3c4115c0c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b26f9d9d126e38778bca0e7deaf15613') in 0.091412 seconds
+  Import took 0.094522 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002992 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_155.asset
+  artifactKey: Guid(a17ae657ad7bcf743a929753cd701fef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_155.asset using Guid(a17ae657ad7bcf743a929753cd701fef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fbcbbb35d5099ed36fa153c9dbb7dfe3') in 0.024164 seconds
+  Import took 0.027286 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003249 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_153.asset
+  artifactKey: Guid(993591aa428a93f44884e44048981974) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_153.asset using Guid(993591aa428a93f44884e44048981974) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95a926b5cec278cb06f42423633e3695') in 0.027256 seconds
+  Import took 0.030530 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003735 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_83.asset
+  artifactKey: Guid(c951ea75de8f5f744b2df272db4713f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_83.asset using Guid(c951ea75de8f5f744b2df272db4713f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81256b34bcbc499edaf10b96c6e5d9ce') in 0.023973 seconds
+  Import took 0.027122 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003663 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_207.asset
+  artifactKey: Guid(ea9900dbac3deff4dadd0c06ef261584) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_207.asset using Guid(ea9900dbac3deff4dadd0c06ef261584) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '020a55826db650d564570813fd483f2c') in 0.023073 seconds
+  Import took 0.025966 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003717 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_48.asset
+  artifactKey: Guid(319605df3c804804eb2dd624e1787298) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_48.asset using Guid(319605df3c804804eb2dd624e1787298) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38c55acf67466569101f7275c6a3159a') in 0.022643 seconds
+  Import took 0.025607 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003510 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_128.asset
+  artifactKey: Guid(e2628bda9abd8e9469fe93e6c3fe3ec5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_128.asset using Guid(e2628bda9abd8e9469fe93e6c3fe3ec5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae89a41cd5fbe2e8e66868f1ba9e72ce') in 0.023547 seconds
+  Import took 0.025986 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003274 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_178.asset
+  artifactKey: Guid(eee1c10baf9b08b449be55ef313df4ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_178.asset using Guid(eee1c10baf9b08b449be55ef313df4ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'edc63c6efec33cef1cd754220c367d85') in 0.023818 seconds
+  Import took 0.027123 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003398 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_140.asset
+  artifactKey: Guid(3344e30221f7134488a49922bc8d7aae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_140.asset using Guid(3344e30221f7134488a49922bc8d7aae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f83f43bdfcdfb56da618f2e1cdb54ca6') in 0.023405 seconds
+  Import took 0.026669 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003583 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_196.asset
+  artifactKey: Guid(83d0a8c746afc2e4e849d5500212181b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_196.asset using Guid(83d0a8c746afc2e4e849d5500212181b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1455f5e57ddad95f9cbd42d78716ff5a') in 0.023525 seconds
+  Import took 0.026723 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003826 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_7.asset
+  artifactKey: Guid(dcfa1cfd81604734993909f01fc4e7e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_7.asset using Guid(dcfa1cfd81604734993909f01fc4e7e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04a6f2d395e13645bd4fca15e1a41681') in 0.023942 seconds
+  Import took 0.027091 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003683 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_131.asset
+  artifactKey: Guid(ba6e0d961c7c7a94ea8bd8c777a8914e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_131.asset using Guid(ba6e0d961c7c7a94ea8bd8c777a8914e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89135473bc50302d288f37ade0171fbc') in 0.024824 seconds
+  Import took 0.027982 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003612 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_141.asset
+  artifactKey: Guid(8b5a67774a6ea16439206ec4b531a1a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_141.asset using Guid(8b5a67774a6ea16439206ec4b531a1a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32d318a8e849d50e21813f40d5472bf6') in 0.023754 seconds
+  Import took 0.026870 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003663 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_151.asset
+  artifactKey: Guid(3c4fc81f3f92da84882ced41d698d6de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_151.asset using Guid(3c4fc81f3f92da84882ced41d698d6de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e796cb81e53a0a9f5f23bb00817b4d7') in 0.022958 seconds
+  Import took 0.025794 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003789 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_110.asset
+  artifactKey: Guid(f4912d453498cd446aefc68f7f3ad51a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_110.asset using Guid(f4912d453498cd446aefc68f7f3ad51a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c64129222cba321a528fb84292e0139') in 0.025337 seconds
+  Import took 0.028070 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003654 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_246.asset
+  artifactKey: Guid(84cd50bd27f67894c8760d4b05b7a5f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_246.asset using Guid(84cd50bd27f67894c8760d4b05b7a5f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54f4140bc01d3262b14b943e199fab5e') in 0.023731 seconds
+  Import took 0.026778 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003492 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_66.asset
+  artifactKey: Guid(ca93054e3f4ba8c4c8e7fe0e7efa2d8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_66.asset using Guid(ca93054e3f4ba8c4c8e7fe0e7efa2d8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61b4a55d088d5977092642413a2c3409') in 0.023462 seconds
+  Import took 0.026299 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003519 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_210.asset
+  artifactKey: Guid(77e4c4519759a8b4c9f5dcb99fe20424) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_210.asset using Guid(77e4c4519759a8b4c9f5dcb99fe20424) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3c7b14bfe3b19638b567c4585bfbc38') in 0.025248 seconds
+  Import took 0.028362 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003513 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_205.asset
+  artifactKey: Guid(1ed88d5426eb46049a899ee89f3d20e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_205.asset using Guid(1ed88d5426eb46049a899ee89f3d20e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9337f3611bb7c6da018287246ec7f14') in 0.023383 seconds
+  Import took 0.026336 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003351 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_74.asset
+  artifactKey: Guid(5e2e351d0db00ac4d8112423ba44a830) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_74.asset using Guid(5e2e351d0db00ac4d8112423ba44a830) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8eb9876f266b9bc47a83bc83d62a32b') in 0.037484 seconds
+  Import took 0.040152 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003791 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_234.asset
+  artifactKey: Guid(b1bcb54b1ecdaa84fb59749e2fd6de91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_234.asset using Guid(b1bcb54b1ecdaa84fb59749e2fd6de91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce3a2c7e297b671f67a021e350a2f9a2') in 0.022737 seconds
+  Import took 0.025507 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003598 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_200.asset
+  artifactKey: Guid(66f608279977ebe4c80a4dca17e5c11b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_200.asset using Guid(66f608279977ebe4c80a4dca17e5c11b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00abb8888d4aee3ece2235712151365b') in 0.024668 seconds
+  Import took 0.027967 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003450 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_173.asset
+  artifactKey: Guid(2eeacaac84cb83d478f6bcbb2c98c8c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_173.asset using Guid(2eeacaac84cb83d478f6bcbb2c98c8c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8aa1f6624a168572aababdf0ebec612') in 0.024324 seconds
+  Import took 0.026731 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003495 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_218.asset
+  artifactKey: Guid(fd1a3ce6a63da474c85920b2e23ad692) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_218.asset using Guid(fd1a3ce6a63da474c85920b2e23ad692) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '120ffdd2c007c771985dce2aab1dbddf') in 0.023203 seconds
+  Import took 0.026220 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003482 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_149.asset
+  artifactKey: Guid(cb1f4bf51e72a664ab021da1bf7389b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_149.asset using Guid(cb1f4bf51e72a664ab021da1bf7389b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a09c9c63e8886a00c817b18280c7de69') in 0.023458 seconds
+  Import took 0.026583 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003607 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_225.asset
+  artifactKey: Guid(f753fa2adcaa12a4fa9999a13c413118) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_225.asset using Guid(f753fa2adcaa12a4fa9999a13c413118) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '269ef7e60879d70a6f929c046c48beb7') in 0.023385 seconds
+  Import took 0.026278 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003508 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_70.asset
+  artifactKey: Guid(b43b35a8db637f240bfb765172a389a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_70.asset using Guid(b43b35a8db637f240bfb765172a389a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63addfaf5105a50575347c48901d3607') in 0.022943 seconds
+  Import took 0.025771 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003517 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_251.asset
+  artifactKey: Guid(fd18ed29e05244e49a24c70396c70652) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_251.asset using Guid(fd18ed29e05244e49a24c70396c70652) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a96008a528daada2fe6a4d072b153fc') in 0.022810 seconds
+  Import took 0.025660 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003867 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_42.asset
+  artifactKey: Guid(69324ed743e3a4c4bad093e1b00252a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_42.asset using Guid(69324ed743e3a4c4bad093e1b00252a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c68dea851ade6805b5c9acfa4618b03') in 0.023616 seconds
+  Import took 0.026807 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003544 seconds.
+  path: Assets/Animations/Adventurer_0.controller
+  artifactKey: Guid(5d0630cb328fbe44386ded30b5b1c2e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Adventurer_0.controller using Guid(5d0630cb328fbe44386ded30b5b1c2e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '700ddd7770ce83e50d14b23885cd1197') in 0.023023 seconds
+  Import took 0.025950 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002741 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_10.asset
+  artifactKey: Guid(8e0c1d51aba6dcb41b101227c8139282) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_10.asset using Guid(8e0c1d51aba6dcb41b101227c8139282) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9ae407e8917a2d4e4d9a2a1ebca6be1') in 0.023751 seconds
+  Import took 0.027009 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003570 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_154.asset
+  artifactKey: Guid(503a306b986ebb9489b83f25f43472b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_154.asset using Guid(503a306b986ebb9489b83f25f43472b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2bbba320d728693ef827a491dbbda7e') in 0.029246 seconds
+  Import took 0.032580 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.012081 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_248.asset
+  artifactKey: Guid(67fb1116fa38cca42b506437241732a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_248.asset using Guid(67fb1116fa38cca42b506437241732a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ffc60df10c5794f13c77b11838feb7da') in 0.024893 seconds
+  Import took 0.028234 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.024856 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_172.asset
+  artifactKey: Guid(4c4c68d7df9b3a140b5e57d1cc4c8c27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_172.asset using Guid(4c4c68d7df9b3a140b5e57d1cc4c8c27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e0e9760fbe3ea80abc7f823aec2f73c') in 0.028301 seconds
+  Import took 0.032021 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.054443 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_107.asset
+  artifactKey: Guid(febb761f1e209b644bafc584dcd2a2dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_107.asset using Guid(febb761f1e209b644bafc584dcd2a2dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e67560438ff11dd39e5399ee37709663') in 0.024842 seconds
+  Import took 0.028299 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003448 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_118.asset
+  artifactKey: Guid(a2c2bc736d6cc914b8a93241743d261e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_118.asset using Guid(a2c2bc736d6cc914b8a93241743d261e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f32bee15594d6451070624bc674edb6') in 0.026092 seconds
+  Import took 0.029453 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004511 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_190.asset
+  artifactKey: Guid(74e532fe7cb02624e9abed1cc783ec33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_190.asset using Guid(74e532fe7cb02624e9abed1cc783ec33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3216f9dae879f83f4a0acbb1176ef85f') in 0.024887 seconds
+  Import took 0.028628 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003865 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_89.asset
+  artifactKey: Guid(378debeddbb62c849ad6f63f8615241b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_89.asset using Guid(378debeddbb62c849ad6f63f8615241b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce0acc426887926b8d8cae1479d0dca1') in 0.025191 seconds
+  Import took 0.028826 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003384 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_79.asset
+  artifactKey: Guid(537b8a36c2b6a3a4083a49aca7bf80b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_79.asset using Guid(537b8a36c2b6a3a4083a49aca7bf80b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6caf1e2a103b36f398f8dd18719e3493') in 0.026564 seconds
+  Import took 0.029792 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003957 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_84.asset
+  artifactKey: Guid(91e4135a668f9d34dae66d31102c6690) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_84.asset using Guid(91e4135a668f9d34dae66d31102c6690) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8782f9ed34a14d42108dd6ea1bb2f5f') in 0.027744 seconds
+  Import took 0.030701 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003828 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_195.asset
+  artifactKey: Guid(3170d22d971f9ba4fbf7ca11b4ed83e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_195.asset using Guid(3170d22d971f9ba4fbf7ca11b4ed83e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '771d3539df0ab249d61ed5dfc17c828b') in 0.024674 seconds
+  Import took 0.028108 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004924 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_5.asset
+  artifactKey: Guid(0a60e261e626f5a4bb66df9851cfb1dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_5.asset using Guid(0a60e261e626f5a4bb66df9851cfb1dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5150625fd1cd37354609e163b703ee6b') in 0.025890 seconds
+  Import took 0.029256 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003629 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_233.asset
+  artifactKey: Guid(150a5005e9a61eb4e922c0451d5bef37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_233.asset using Guid(150a5005e9a61eb4e922c0451d5bef37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93fb630017082a0549f10757b1a23036') in 0.025833 seconds
+  Import took 0.029193 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003627 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_117.asset
+  artifactKey: Guid(3ed77571121170f4ca5d7448865f0a41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_117.asset using Guid(3ed77571121170f4ca5d7448865f0a41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a501277e99fd0328e9cabadab52880b') in 0.025333 seconds
+  Import took 0.028893 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003369 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_75.asset
+  artifactKey: Guid(3880d931ae0cf374d899736ea5ebe408) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_75.asset using Guid(3880d931ae0cf374d899736ea5ebe408) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a823e1467b3349955055e2cc621dbb99') in 0.026479 seconds
+  Import took 0.029921 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003826 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_134.asset
+  artifactKey: Guid(47869157057af844991725cf08a2ad0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_134.asset using Guid(47869157057af844991725cf08a2ad0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f0ecc9fca356bf1c61e4d0961905cd7') in 0.026264 seconds
+  Import took 0.029548 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003237 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_264.asset
+  artifactKey: Guid(a9be5fbe35201b24abf2cbedc1eaf3ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_264.asset using Guid(a9be5fbe35201b24abf2cbedc1eaf3ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24fc04da0b2f6eeff415c0712454d2c8') in 0.027775 seconds
+  Import took 0.031322 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003638 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_99.asset
+  artifactKey: Guid(26d551126477e9044a7a8b68bd7c2261) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_99.asset using Guid(26d551126477e9044a7a8b68bd7c2261) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b9e2d7c7a24e48a55686e706523a1e9') in 0.024706 seconds
+  Import took 0.028056 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003374 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_186.asset
+  artifactKey: Guid(16046cb17d508bb44b6c9e785589ca0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_186.asset using Guid(16046cb17d508bb44b6c9e785589ca0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd6a80c42e6fc5b83fcda79509de1b69') in 0.024191 seconds
+  Import took 0.027436 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003143 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_183.asset
+  artifactKey: Guid(5137c2c0c4bb0964c88ad3a565804983) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_183.asset using Guid(5137c2c0c4bb0964c88ad3a565804983) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6569ec9c8a743e5b2d7ba7a3c0a3fb55') in 0.024472 seconds
+  Import took 0.027610 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003355 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_240.asset
+  artifactKey: Guid(6303f39af53d5484b93c5814560a2789) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_240.asset using Guid(6303f39af53d5484b93c5814560a2789) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9f21aab56fe2598fa36de797d0896b2') in 0.024008 seconds
+  Import took 0.027194 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003239 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_238.asset
+  artifactKey: Guid(5a979e6ff7e930848b812c50019273e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_238.asset using Guid(5a979e6ff7e930848b812c50019273e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '693ed86c9ad7539eb1c4c951add04c3c') in 0.024391 seconds
+  Import took 0.028141 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003487 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_263.asset
+  artifactKey: Guid(fea496900ac5a944286960f5dce37762) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_263.asset using Guid(fea496900ac5a944286960f5dce37762) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f40eadffead999d235fe163a094379e') in 0.028078 seconds
+  Import took 0.031746 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003542 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_15.asset
+  artifactKey: Guid(e2ea2d09753b3fe46aa7436eb556bd9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_15.asset using Guid(e2ea2d09753b3fe46aa7436eb556bd9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '518f629e556052345b217f56ebd8fb95') in 0.024020 seconds
+  Import took 0.026955 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003667 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_127.asset
+  artifactKey: Guid(b219a23152dea7b419f3f8b3ac82c78f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_127.asset using Guid(b219a23152dea7b419f3f8b3ac82c78f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3e3af4da420b12369e48d09cfe2abc0') in 0.025646 seconds
+  Import took 0.029042 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003900 seconds.
+  path: Assets/Sprites/Atlas/Dark Forest Tileset.spriteatlas
+  artifactKey: Guid(b6b593fc2547c2f4384b3d01ad8ec6a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Atlas/Dark Forest Tileset.spriteatlas using Guid(b6b593fc2547c2f4384b3d01ad8ec6a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8130ee1796406f9c063b64613d9acda') in 0.022968 seconds
+  Import took 0.026423 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002595 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_241.asset
+  artifactKey: Guid(8cd8151de8c67c748a9ef7da9a030631) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_241.asset using Guid(8cd8151de8c67c748a9ef7da9a030631) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a5b38b3fbcc4bf4926de5269c7183af') in 0.025381 seconds
+  Import took 0.029270 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003723 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_187.asset
+  artifactKey: Guid(1ab7939fb7a512a4089be4c0bd0a657d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_187.asset using Guid(1ab7939fb7a512a4089be4c0bd0a657d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c9076e1f3875122fb355fb523a38d64') in 0.024902 seconds
+  Import took 0.027860 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003392 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_139.asset
+  artifactKey: Guid(0cad39b64c8d86f4b82e0537ba497a11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_139.asset using Guid(0cad39b64c8d86f4b82e0537ba497a11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a52570a34a63619ff85080d36442bb8f') in 0.025000 seconds
+  Import took 0.028003 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003060 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_250.asset
+  artifactKey: Guid(e6a0f5e60704e9448b894a7e1a4f7900) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_250.asset using Guid(e6a0f5e60704e9448b894a7e1a4f7900) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f3aaf198a331c1529e7a0667c8d8ade') in 0.024164 seconds
+  Import took 0.027604 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003349 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_103.asset
+  artifactKey: Guid(bd49b50d4ffda674abe1b7a5073d99b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_103.asset using Guid(bd49b50d4ffda674abe1b7a5073d99b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e97440fb9906785648c12237dc3e36b') in 0.023734 seconds
+  Import took 0.027034 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003966 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_43.asset
+  artifactKey: Guid(d2271cf2192a2754984b065656e4a850) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_43.asset using Guid(d2271cf2192a2754984b065656e4a850) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1b15e56288b9b8de12cf41980658b9c') in 0.023321 seconds
+  Import took 0.026385 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002888 seconds.
+  path: Assets/Sprites/Atlas
+  artifactKey: Guid(3d2006916e67b0f4b996097a89cb67d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Atlas using Guid(3d2006916e67b0f4b996097a89cb67d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9bd2d8141a8c7761ce31f74d3d731735') in 0.020861 seconds
+  Import took 0.023857 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002480 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_191.asset
+  artifactKey: Guid(924e04e457939904d86412cba278fdd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_191.asset using Guid(924e04e457939904d86412cba278fdd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3bb6ea8068000f4d6c8b2c9110480ed') in 0.023969 seconds
+  Import took 0.027575 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003798 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_197.asset
+  artifactKey: Guid(41ed1021799cd464ba43ae4f10fc0bdf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_197.asset using Guid(41ed1021799cd464ba43ae4f10fc0bdf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76f6cbfc2fe4e0376f73cd7b183d1d04') in 0.023615 seconds
+  Import took 0.027278 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003551 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_253.asset
+  artifactKey: Guid(f781c0a1c477fd5478bdd76eb0f40558) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_253.asset using Guid(f781c0a1c477fd5478bdd76eb0f40558) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '358afed4d796e7f7a63850a4aaf1e348') in 0.022993 seconds
+  Import took 0.026178 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003822 seconds.
+  path: Assets/Animations/PlayerWalking.anim
+  artifactKey: Guid(9a6d8e87fe0a2d74a94c3c232ee409c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/PlayerWalking.anim using Guid(9a6d8e87fe0a2d74a94c3c232ee409c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2a9dce6d239539a7b3a06698486556c') in 0.021740 seconds
+  Import took 0.025017 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002417 seconds.
+  path: Assets/CREDITS.txt
+  artifactKey: Guid(d588586cc5798134b85c61e474a32705) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CREDITS.txt using Guid(d588586cc5798134b85c61e474a32705) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bedcc4ecb0393fe38f9d8c5ebf4537b1') in 0.026320 seconds
+  Import took 0.029639 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002674 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_98.asset
+  artifactKey: Guid(df82804c4b21daf46a40a430ccb1c5b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_98.asset using Guid(df82804c4b21daf46a40a430ccb1c5b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae7c8ce3a64ef5780e651224a850ed50') in 0.024717 seconds
+  Import took 0.027994 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003441 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_193.asset
+  artifactKey: Guid(134cb5039b6750d40adf20a4fdf0a598) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_193.asset using Guid(134cb5039b6750d40adf20a4fdf0a598) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39d4d2397f5538c086a1e019915dd4e2') in 0.024032 seconds
+  Import took 0.027277 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003280 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_36.asset
+  artifactKey: Guid(5315cc81791bbd440909c9799598d0b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_36.asset using Guid(5315cc81791bbd440909c9799598d0b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ab072c8e29f4fb2e9875d270579f5a9') in 0.024068 seconds
+  Import took 0.027033 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004294 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_8.asset
+  artifactKey: Guid(a250bfa27452eb947af67bb07be01308) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_8.asset using Guid(a250bfa27452eb947af67bb07be01308) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41ef1b625c03b9e8a3099c9ce5b00872') in 0.028202 seconds
+  Import took 0.031533 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002982 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_126.asset
+  artifactKey: Guid(6136728a70bbca041abf066eb641840f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_126.asset using Guid(6136728a70bbca041abf066eb641840f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17074f02256fc5d6fa7a75c2f190e281') in 0.025985 seconds
+  Import took 0.029592 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004294 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_138.asset
+  artifactKey: Guid(d897b33301ff3344a84c4a858c7f2adf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_138.asset using Guid(d897b33301ff3344a84c4a858c7f2adf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf86b638a3fc577e8eb9494f56906883') in 0.024818 seconds
+  Import took 0.028286 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003269 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_182.asset
+  artifactKey: Guid(cb8a38cfc96998d43b9e4a20173663c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_182.asset using Guid(cb8a38cfc96998d43b9e4a20173663c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '864e84ef8108bd6366b2cfd390a2d7ea') in 0.023076 seconds
+  Import took 0.026638 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003002 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_26.asset
+  artifactKey: Guid(d39ca1fab18caab4f9c41c3d1fc72f04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_26.asset using Guid(d39ca1fab18caab4f9c41c3d1fc72f04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d069ce0e83948cf29741cdb8e8a2d43') in 0.023992 seconds
+  Import took 0.031901 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003882 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_148.asset
+  artifactKey: Guid(0317231d2ccbeeb48989f782f4a63dcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_148.asset using Guid(0317231d2ccbeeb48989f782f4a63dcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a38e3f0eadd73873e817322f81914cd8') in 0.025855 seconds
+  Import took 0.029426 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003358 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_30.asset
+  artifactKey: Guid(6defb7b5b8e5faa4fa5092c5be5ab173) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_30.asset using Guid(6defb7b5b8e5faa4fa5092c5be5ab173) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4533a71a351a91130c019c5f12927ad') in 0.023902 seconds
+  Import took 0.027574 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003242 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_0.asset
+  artifactKey: Guid(98b3ba2afcd2491458b8c98e3fbd80c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_0.asset using Guid(98b3ba2afcd2491458b8c98e3fbd80c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c3f15a4524ee7c2681bf405e6025290') in 0.023862 seconds
+  Import took 0.027245 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003675 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_64.asset
+  artifactKey: Guid(5913b87fae2c4224392aac0d1c938965) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_64.asset using Guid(5913b87fae2c4224392aac0d1c938965) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96d882c5874717e8a746f01db8e4ca57') in 0.023440 seconds
+  Import took 0.026693 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003485 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_12.asset
+  artifactKey: Guid(ea55e91ae2156cd4c805177e6d964e8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_12.asset using Guid(ea55e91ae2156cd4c805177e6d964e8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5a4b77339efe970d65b15dff1111b65') in 0.023820 seconds
+  Import took 0.027220 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003203 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_31.asset
+  artifactKey: Guid(23f3354e300e1ab43b4068909f4e5546) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_31.asset using Guid(23f3354e300e1ab43b4068909f4e5546) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05297a00320de0dfd9ea836acac96af4') in 0.023089 seconds
+  Import took 0.026211 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002860 seconds.
+  path: Assets/Animations/PlayerIdle.anim
+  artifactKey: Guid(f208c8ed5a7ec6f4c8cc700e0afa4a8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/PlayerIdle.anim using Guid(f208c8ed5a7ec6f4c8cc700e0afa4a8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7343232fca894e933558f3efd5588cc8') in 0.022925 seconds
+  Import took 0.026367 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002387 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_146.asset
+  artifactKey: Guid(24541b4728da793418538c2fff5844e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_146.asset using Guid(24541b4728da793418538c2fff5844e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9388613e347e5b0b984f0a616f098fdb') in 0.023927 seconds
+  Import took 0.027249 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003417 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_168.asset
+  artifactKey: Guid(e549c7b588397ae4cbc91c8324fbf056) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_168.asset using Guid(e549c7b588397ae4cbc91c8324fbf056) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab7de6bdb6b9b42a67f578f020fac6f9') in 0.025413 seconds
+  Import took 0.028736 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003923 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_198.asset
+  artifactKey: Guid(aab69c45647b9084bad5577771735dc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_198.asset using Guid(aab69c45647b9084bad5577771735dc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4485e4bf458a5d37094c584d42a9c85c') in 0.023864 seconds
+  Import took 0.027210 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003168 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_106.asset
+  artifactKey: Guid(8743665c4323ae74f883aa847b03245f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_106.asset using Guid(8743665c4323ae74f883aa847b03245f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bec27352c90249ef865287255bf77832') in 0.023714 seconds
+  Import took 0.026850 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003397 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_239.asset
+  artifactKey: Guid(e951b2b6a7001e1478b8b5d808755b61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_239.asset using Guid(e951b2b6a7001e1478b8b5d808755b61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed730b5115ae9e1479a67cd23563ee7d') in 0.024519 seconds
+  Import took 0.028028 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003575 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_114.asset
+  artifactKey: Guid(daecb025f3f7c5045b281e9a84749923) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_114.asset using Guid(daecb025f3f7c5045b281e9a84749923) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a89e5ba21069678ff6e1bf20803450c') in 0.024212 seconds
+  Import took 0.027482 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003421 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_169.asset
+  artifactKey: Guid(19df752d9727dbe45849610e2bead16f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_169.asset using Guid(19df752d9727dbe45849610e2bead16f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '085f673f6de814fa462e1b69004df781') in 0.023627 seconds
+  Import took 0.027059 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004521 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_73.asset
+  artifactKey: Guid(a88a8b3b4063ad64197bb29705021dcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_73.asset using Guid(a88a8b3b4063ad64197bb29705021dcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc2fac1fbd59119a9eeab24393d2c0ad') in 0.023700 seconds
+  Import took 0.027032 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003527 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_27.asset
+  artifactKey: Guid(8b79c0b743274494196863831d52086e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_27.asset using Guid(8b79c0b743274494196863831d52086e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75192367316486be8226ecf5685a0fad') in 0.026538 seconds
+  Import took 0.030065 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003436 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_49.asset
+  artifactKey: Guid(7d7cd27c5d2fd0843bb301272cca7784) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_49.asset using Guid(7d7cd27c5d2fd0843bb301272cca7784) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f17850711b179bbdbe6f49af48b70cc') in 0.023193 seconds
+  Import took 0.026372 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003448 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_85.asset
+  artifactKey: Guid(3fb56aca9927f9e479c81b46563faf7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_85.asset using Guid(3fb56aca9927f9e479c81b46563faf7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a379995a215202ff1ac2bc6cd3b73fd') in 0.023727 seconds
+  Import took 0.026979 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002994 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_185.asset
+  artifactKey: Guid(1dd1c8742c583af4990b880fcc0f821e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_185.asset using Guid(1dd1c8742c583af4990b880fcc0f821e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42b7cc876acc005c59c9b3d749a6af1f') in 0.024373 seconds
+  Import took 0.027186 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003097 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_45.asset
+  artifactKey: Guid(f7423e269a12a2948a81f5eb9707b366) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_45.asset using Guid(f7423e269a12a2948a81f5eb9707b366) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e7ef32ce8ac117224eff9361a430a37') in 0.023308 seconds
+  Import took 0.026186 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003173 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_82.asset
+  artifactKey: Guid(568dddd2154d39e4cb404f46deec3c54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_82.asset using Guid(568dddd2154d39e4cb404f46deec3c54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c20f351f0d1377c019b076ab07e37457') in 0.022893 seconds
+  Import took 0.025845 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003356 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_24.asset
+  artifactKey: Guid(16f9915c209eac8468d36e3790a5546e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_24.asset using Guid(16f9915c209eac8468d36e3790a5546e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70d57ea9eb861cd9451005cba66178e2') in 0.023425 seconds
+  Import took 0.026703 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005377 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_245.asset
+  artifactKey: Guid(edfba7592196ac04697608ffae9d9d17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_245.asset using Guid(edfba7592196ac04697608ffae9d9d17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab84e950ee0031a8eb9d78a2a4deaf8a') in 0.023336 seconds
+  Import took 0.026305 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003733 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_51.asset
+  artifactKey: Guid(9cbc57850fb320a4d8e639b22dfed102) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_51.asset using Guid(9cbc57850fb320a4d8e639b22dfed102) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5db64e89512cb587a1140a3890fdf717') in 0.024645 seconds
+  Import took 0.028067 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004543 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_20.asset
+  artifactKey: Guid(1f7a1b277e2980d42a6057d16ffa6166) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_20.asset using Guid(1f7a1b277e2980d42a6057d16ffa6166) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a43771f7857ec07891d6c5361765579') in 0.024376 seconds
+  Import took 0.027299 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003390 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_216.asset
+  artifactKey: Guid(7dd44f16a4982284b9be80a95591d28e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_216.asset using Guid(7dd44f16a4982284b9be80a95591d28e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a78465bcbd1614fcc2af27a436cdb995') in 0.023650 seconds
+  Import took 0.026812 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003197 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_123.asset
+  artifactKey: Guid(1cd959876d1410e498b306955482d288) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_123.asset using Guid(1cd959876d1410e498b306955482d288) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ab508b258501997746e832db556a3f5') in 0.023270 seconds
+  Import took 0.026605 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003250 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_23.asset
+  artifactKey: Guid(bd063348a0fef32499c6947724e33acd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_23.asset using Guid(bd063348a0fef32499c6947724e33acd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a46922603f83ae7ef8cc5bd1e27a2b8c') in 0.023144 seconds
+  Import took 0.026437 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003540 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_25.asset
+  artifactKey: Guid(5fd5bd0148b1f5a48ac6585be4e05fef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_25.asset using Guid(5fd5bd0148b1f5a48ac6585be4e05fef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ddf274446585d804429646418010d46d') in 0.023842 seconds
+  Import took 0.026907 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003346 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_236.asset
+  artifactKey: Guid(c363b9240f927af4d9ac6f916a06a8b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_236.asset using Guid(c363b9240f927af4d9ac6f916a06a8b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7bdefb31e0574132f6af8b9bcd69520e') in 0.023227 seconds
+  Import took 0.026589 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002700 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_38.asset
+  artifactKey: Guid(5c0744a646aed8142a569bf299f64ac9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_38.asset using Guid(5c0744a646aed8142a569bf299f64ac9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43647261c0978ce406d279167edbf79c') in 0.024230 seconds
+  Import took 0.027487 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.043154 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_259.asset
+  artifactKey: Guid(70ddacbcb7015a5499a9d14e003d32d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_259.asset using Guid(70ddacbcb7015a5499a9d14e003d32d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c8fbf87a303cb9002960086e6cd838c') in 0.023338 seconds
+  Import took 0.026677 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.017747 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_2.asset
+  artifactKey: Guid(99eda018631032d49a58ba360e27ef7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_2.asset using Guid(99eda018631032d49a58ba360e27ef7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cfe435863613b74c82ffb168fed34ec5') in 0.027183 seconds
+  Import took 0.030437 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003776 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_37.asset
+  artifactKey: Guid(f6cde6d716f91e5459a734aad81c7980) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_37.asset using Guid(f6cde6d716f91e5459a734aad81c7980) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43d43ffefe1de9d73695b325150aa7eb') in 0.023679 seconds
+  Import took 0.026871 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003142 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_87.asset
+  artifactKey: Guid(d06d131d632931848b11ae823e0b75e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_87.asset using Guid(d06d131d632931848b11ae823e0b75e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4645371ad18cc7e6949816d2bda9376d') in 0.023549 seconds
+  Import took 0.026767 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003374 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_144.asset
+  artifactKey: Guid(fc46568b6bea897489b7468839567931) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_144.asset using Guid(fc46568b6bea897489b7468839567931) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42aa9888ef90f227d971e62fbba62491') in 0.022824 seconds
+  Import took 0.025929 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003533 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_111.asset
+  artifactKey: Guid(cf79b777afc2b0b43bef9fbeb98b6c5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_111.asset using Guid(cf79b777afc2b0b43bef9fbeb98b6c5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38077ee1352f53858c99d2134f6a54a4') in 0.023446 seconds
+  Import took 0.026669 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003099 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_214.asset
+  artifactKey: Guid(17e9d5a3f09dcc54899215bd52e581bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_214.asset using Guid(17e9d5a3f09dcc54899215bd52e581bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '810789584ff094edff2935469df79621') in 0.024446 seconds
+  Import took 0.027614 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003013 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_244.asset
+  artifactKey: Guid(1d983f5d511a61c45b866e527f482c9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_244.asset using Guid(1d983f5d511a61c45b866e527f482c9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a01e432a950322bd1e95a44364a5171a') in 0.023200 seconds
+  Import took 0.025799 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002958 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_158.asset
+  artifactKey: Guid(b21f8bebe7de0ed49b598c9c1386eba7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_158.asset using Guid(b21f8bebe7de0ed49b598c9c1386eba7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40f872b5ec76203138cea13a267b5be8') in 0.022492 seconds
+  Import took 0.025454 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003110 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_203.asset
+  artifactKey: Guid(ba886bc8d7fb59e46b28e4188b96cc6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_203.asset using Guid(ba886bc8d7fb59e46b28e4188b96cc6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9bfb806e34a920ceb2eb264c9b68567f') in 0.024683 seconds
+  Import took 0.027627 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003026 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_94.asset
+  artifactKey: Guid(548583f7e6240a045821b0998041d75f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_94.asset using Guid(548583f7e6240a045821b0998041d75f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '146ca22b060de97b4c62dfa8d78794b7') in 0.023362 seconds
+  Import took 0.026494 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003259 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_50.asset
+  artifactKey: Guid(880d421a054901d43909569665b227db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_50.asset using Guid(880d421a054901d43909569665b227db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a5181b81c9e9d1c086171ec7182c61b') in 0.025616 seconds
+  Import took 0.028314 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003180 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_212.asset
+  artifactKey: Guid(3998cbd7222a51945be871153a8f03a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_212.asset using Guid(3998cbd7222a51945be871153a8f03a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e133c9111c3fb96ca9b8d24b598b0749') in 0.023614 seconds
+  Import took 0.027151 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002768 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_3.asset
+  artifactKey: Guid(920a3a57797851e45a49515eeba5bebb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_3.asset using Guid(920a3a57797851e45a49515eeba5bebb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a74078e724c49f178d106fd5417bb6c') in 0.025492 seconds
+  Import took 0.028739 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003345 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_102.asset
+  artifactKey: Guid(107f9bfce40066e4d8890cc9a3829db8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_102.asset using Guid(107f9bfce40066e4d8890cc9a3829db8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4df1c13110b29f9462b897e6873d0053') in 0.023115 seconds
+  Import took 0.026017 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003240 seconds.
+  path: Assets/Scenes/Animating the Player.unity
+  artifactKey: Guid(995b6f89c6724fc4dbf270af477ebd61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Animating the Player.unity using Guid(995b6f89c6724fc4dbf270af477ebd61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13eb75dc568449e16f4b843db3aac80f') in 0.020229 seconds
+  Import took 0.022897 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002399 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_229.asset
+  artifactKey: Guid(01a5443f19a0c254498a41433bf54825) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_229.asset using Guid(01a5443f19a0c254498a41433bf54825) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee268724bb49e6200fe3ef34ecc7fc40') in 0.023403 seconds
+  Import took 0.026539 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002870 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_184.asset
+  artifactKey: Guid(9a8bcb1f5902dd046922c14b0f69a1a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_184.asset using Guid(9a8bcb1f5902dd046922c14b0f69a1a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ddb1fc8b234afaf1c9d79a5bd7843ce4') in 0.023107 seconds
+  Import took 0.026133 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003358 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_116.asset
+  artifactKey: Guid(e241e28e76810ea448dd567ee32789f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_116.asset using Guid(e241e28e76810ea448dd567ee32789f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9eca487b25570ef0d3e94cb2c76233f2') in 0.024858 seconds
+  Import took 0.028231 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003606 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_22.asset
+  artifactKey: Guid(f8cf3b660dad56e4f8593880147b2e76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_22.asset using Guid(f8cf3b660dad56e4f8593880147b2e76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe99b7a0cd72d73300d16be170ae8b78') in 0.027335 seconds
+  Import took 0.030922 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003279 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_59.asset
+  artifactKey: Guid(eeeafa1925621c942b2dffce2a6a0cce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_59.asset using Guid(eeeafa1925621c942b2dffce2a6a0cce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86fbddbbe719af5d3c0552d8a1c98590') in 0.023183 seconds
+  Import took 0.026600 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003235 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_221.asset
+  artifactKey: Guid(cb0c29e8c48fecc44b3cefd6e70219d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_221.asset using Guid(cb0c29e8c48fecc44b3cefd6e70219d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dbb88ff8441b5380f3442da3b388ac28') in 0.023431 seconds
+  Import took 0.026814 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003814 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_120.asset
+  artifactKey: Guid(f6243ec952706924c8ebefd772c48f2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_120.asset using Guid(f6243ec952706924c8ebefd772c48f2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33f8ee2a578b24a33cbccb9d84ecebe4') in 0.027569 seconds
+  Import took 0.030553 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003576 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_112.asset
+  artifactKey: Guid(bb982ce4ef9663a4d8f8e93e864332fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_112.asset using Guid(bb982ce4ef9663a4d8f8e93e864332fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '369573206a34fe290c3622ca3b728287') in 0.030929 seconds
+  Import took 0.034202 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003206 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_150.asset
+  artifactKey: Guid(c31eeda60d332de45b58c3814074e3da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_150.asset using Guid(c31eeda60d332de45b58c3814074e3da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '471ef24086c2c76ffcb33330dfc897bf') in 0.023641 seconds
+  Import took 0.026943 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002636 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_204.asset
+  artifactKey: Guid(44f2d064812569f40b083acfb678c07c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_204.asset using Guid(44f2d064812569f40b083acfb678c07c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7039e8c679b53e47c54c86991734e6bb') in 0.024006 seconds
+  Import took 0.027296 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003099 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_224.asset
+  artifactKey: Guid(ef4598403c6475c42be03fda8573bc64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_224.asset using Guid(ef4598403c6475c42be03fda8573bc64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '720669b505f24d60b99d7bc2f0550959') in 0.023790 seconds
+  Import took 0.026940 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003127 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_39.asset
+  artifactKey: Guid(f24ed0621c6f9854eaf1937f3c244aee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_39.asset using Guid(f24ed0621c6f9854eaf1937f3c244aee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a8e448f9046214a11561d0ad81cbc38') in 0.023290 seconds
+  Import took 0.026715 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003066 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_125.asset
+  artifactKey: Guid(9304fab536553664e8256fe83a8d9464) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_125.asset using Guid(9304fab536553664e8256fe83a8d9464) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79ca4f3839c82ecf3cbbe029d86a636d') in 0.023123 seconds
+  Import took 0.026006 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003958 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_199.asset
+  artifactKey: Guid(794e16008a430994c84c02c98687319f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_199.asset using Guid(794e16008a430994c84c02c98687319f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '569c0bf8bffe3af72ce22e5291d97340') in 0.024438 seconds
+  Import took 0.035552 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003520 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_19.asset
+  artifactKey: Guid(409c505dcd5bfc2469a1acb85d087ed9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_19.asset using Guid(409c505dcd5bfc2469a1acb85d087ed9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a61f131152b4fd7502c586deb273bc5') in 0.023329 seconds
+  Import took 0.026169 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003376 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_192.asset
+  artifactKey: Guid(dc83ce99ba604b3439427fdee0baa315) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_192.asset using Guid(dc83ce99ba604b3439427fdee0baa315) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3171622a8bcbd9d2379dbd8f654ec57d') in 0.023612 seconds
+  Import took 0.026715 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003195 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_162.asset
+  artifactKey: Guid(5bde2b7f8179ea64fb0987ae95c34867) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_162.asset using Guid(5bde2b7f8179ea64fb0987ae95c34867) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92089de5df82eb77463b9b954d962702') in 0.024073 seconds
+  Import took 0.027418 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003329 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_97.asset
+  artifactKey: Guid(bff2f65340e3c614ca204f49bc532840) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_97.asset using Guid(bff2f65340e3c614ca204f49bc532840) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90cfa2cb03a0ecb321324aab06165e5d') in 0.025209 seconds
+  Import took 0.028386 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003298 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_46.asset
+  artifactKey: Guid(9f3069105a36e084184c433510939f6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_46.asset using Guid(9f3069105a36e084184c433510939f6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3a9d26724bdbe70457925e710eb8678') in 0.027524 seconds
+  Import took 0.030959 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003536 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_223.asset
+  artifactKey: Guid(21f3af73bc824be46aa6c56f13328621) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_223.asset using Guid(21f3af73bc824be46aa6c56f13328621) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d4acde26fc4e8265dd0447d5c4c3acd') in 0.026482 seconds
+  Import took 0.029277 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003156 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_122.asset
+  artifactKey: Guid(82de5d697d2f16845b25e3d50342d088) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_122.asset using Guid(82de5d697d2f16845b25e3d50342d088) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ec4d176bdc3e2243becd6aa9f072096') in 0.028586 seconds
+  Import took 0.031875 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003306 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_136.asset
+  artifactKey: Guid(9a9e1d2a3f773914a9ecd6dd1ab5cb4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_136.asset using Guid(9a9e1d2a3f773914a9ecd6dd1ab5cb4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '055697ae48cd54989ec05117aeccd955') in 0.026235 seconds
+  Import took 0.029534 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002718 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_115.asset
+  artifactKey: Guid(e5623a1b1fbfb194baa99e72064fef5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_115.asset using Guid(e5623a1b1fbfb194baa99e72064fef5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a01a6b9d0013ba9aa19c0720d7ee7913') in 0.024602 seconds
+  Import took 0.027666 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003014 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_147.asset
+  artifactKey: Guid(02ecc479fdf52d64b80fa76f1ebd2a63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_147.asset using Guid(02ecc479fdf52d64b80fa76f1ebd2a63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22e65ec406fa1fa103779cfca808b97d') in 0.023000 seconds
+  Import took 0.026100 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003340 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_105.asset
+  artifactKey: Guid(b1b16ce67d64bd3458b47d2afb33668d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_105.asset using Guid(b1b16ce67d64bd3458b47d2afb33668d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2fc64cb203c4fdaa56d23e53957efe9d') in 0.023152 seconds
+  Import took 0.026358 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002973 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_228.asset
+  artifactKey: Guid(8eaff29a6f535dd4ca875b51be509af9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_228.asset using Guid(8eaff29a6f535dd4ca875b51be509af9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a06d8608b146152c02ec505ed209df18') in 0.023616 seconds
+  Import took 0.026354 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002776 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_232.asset
+  artifactKey: Guid(0687f81664c592443b454cc7baa50ba8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_232.asset using Guid(0687f81664c592443b454cc7baa50ba8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91fdc47ac0a7248f167209c788e3d528') in 0.024344 seconds
+  Import took 0.027653 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003213 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_227.asset
+  artifactKey: Guid(f642b610c26d2b64da2331dd825edca6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_227.asset using Guid(f642b610c26d2b64da2331dd825edca6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9dfa40598085c39b8b4ddf182c3896d6') in 0.030583 seconds
+  Import took 0.033764 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003518 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_268.asset
+  artifactKey: Guid(4df3de30fd77f2a47b19ad48b0231068) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_268.asset using Guid(4df3de30fd77f2a47b19ad48b0231068) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1927171b2e63e7beac695d053bb14f96') in 0.024213 seconds
+  Import took 0.027302 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003183 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_258.asset
+  artifactKey: Guid(bcf3bc69cb5eeb54d9b9ae99e7cd5e92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_258.asset using Guid(bcf3bc69cb5eeb54d9b9ae99e7cd5e92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5bfd1c219cce21a6bb7fcbf9af18b13') in 0.022849 seconds
+  Import took 0.025902 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003081 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_61.asset
+  artifactKey: Guid(61cf119a3f66fcf408d987599c17f8c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_61.asset using Guid(61cf119a3f66fcf408d987599c17f8c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5162f42a5edf305a4f989b5bc61e2d0d') in 0.023739 seconds
+  Import took 0.026975 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003264 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_170.asset
+  artifactKey: Guid(dcdf099adb35ec548885bc4705855233) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_170.asset using Guid(dcdf099adb35ec548885bc4705855233) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a150576cbddb874e5dee95e23d3f92e1') in 0.023265 seconds
+  Import took 0.026374 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003493 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_91.asset
+  artifactKey: Guid(b03942584c623eb40a4544f10e1dbd94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_91.asset using Guid(b03942584c623eb40a4544f10e1dbd94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd33a109f5d42b6bbc7244c6b147c9e7c') in 0.023207 seconds
+  Import took 0.026538 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003322 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_77.asset
+  artifactKey: Guid(104af697cfe829b4c971cfd94e7e585d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_77.asset using Guid(104af697cfe829b4c971cfd94e7e585d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e47a8f0c8a13a7666dfe118a5fa3ef4e') in 0.023342 seconds
+  Import took 0.026529 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003293 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_104.asset
+  artifactKey: Guid(afefaefa0453893438434cff8c4a6662) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_104.asset using Guid(afefaefa0453893438434cff8c4a6662) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84457fd73ba12c6fe9135088b575eb0b') in 0.024265 seconds
+  Import took 0.027454 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003301 seconds.
+  path: Assets/Sprites/Materials/Adventurer.mat
+  artifactKey: Guid(839a3393529cf0647a251173158d8a15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Materials/Adventurer.mat using Guid(839a3393529cf0647a251173158d8a15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9904b275ed3671b526443aad1a864b0e') in 0.066845 seconds
+  Import took 0.069950 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004158 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_47.asset
+  artifactKey: Guid(fdf7aa40855102c4ab4e9d2ac02ab0f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_47.asset using Guid(fdf7aa40855102c4ab4e9d2ac02ab0f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c4d597ca270abd566507900991f27e7') in 0.023971 seconds
+  Import took 0.027364 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003167 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_76.asset
+  artifactKey: Guid(a1023f76c71421b4c82f443337a349b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_76.asset using Guid(a1023f76c71421b4c82f443337a349b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a749d70f469ce16af984aa1466939239') in 0.023725 seconds
+  Import took 0.026904 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002924 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_255.asset
+  artifactKey: Guid(95c3bc52ac82ab646a3f33b9ec37a11a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_255.asset using Guid(95c3bc52ac82ab646a3f33b9ec37a11a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b35ac443c785cb3c642f5db18749da3c') in 0.027072 seconds
+  Import took 0.029987 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003106 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_222.asset
+  artifactKey: Guid(38df5dcaa8b338c45bc038c7e124c48e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_222.asset using Guid(38df5dcaa8b338c45bc038c7e124c48e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d9ace97d14cbf1756f21afaec4f2f25') in 0.027266 seconds
+  Import took 0.030034 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003136 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_71.asset
+  artifactKey: Guid(d051492cd0e13a94ba15385198ac9c69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_71.asset using Guid(d051492cd0e13a94ba15385198ac9c69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e43cec0c76b6d1f848d41be00552528f') in 0.026695 seconds
+  Import took 0.029982 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003276 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_108.asset
+  artifactKey: Guid(056da6e7d84423645ae502de77780232) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_108.asset using Guid(056da6e7d84423645ae502de77780232) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0d0ea008685a34cd35a2c59766221a5') in 0.023954 seconds
+  Import took 0.027050 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003155 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_143.asset
+  artifactKey: Guid(4f17ccf9c1cfcea4ba322073f0d38b3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_143.asset using Guid(4f17ccf9c1cfcea4ba322073f0d38b3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '149badcd4779431229ad771f2a0dc543') in 0.022997 seconds
+  Import took 0.025988 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003410 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_52.asset
+  artifactKey: Guid(26ff03a67e82831439b7acf1a83ad250) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_52.asset using Guid(26ff03a67e82831439b7acf1a83ad250) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '504a3006a4d7cb87919e0c1dda1a0187') in 0.024555 seconds
+  Import took 0.028089 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003024 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_179.asset
+  artifactKey: Guid(76c923236c3b26f43adcd7d4bb2a73f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_179.asset using Guid(76c923236c3b26f43adcd7d4bb2a73f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c6de32a7556e10923f30366faa7c9d3') in 0.024673 seconds
+  Import took 0.028117 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003649 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_211.asset
+  artifactKey: Guid(a9047abb83445de4aa2019f19e3c7c2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_211.asset using Guid(a9047abb83445de4aa2019f19e3c7c2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d1283fca91926b085d101e6c81c4db4') in 0.023452 seconds
+  Import took 0.026684 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003122 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_56.asset
+  artifactKey: Guid(1c118c44192c67948b871651d7fc7b6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_56.asset using Guid(1c118c44192c67948b871651d7fc7b6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a156a4ae57be46be026a35bdd59bbd1a') in 0.023611 seconds
+  Import took 0.026761 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002695 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_194.asset
+  artifactKey: Guid(f3d455e191e23da499f1604cb8ffdcc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_194.asset using Guid(f3d455e191e23da499f1604cb8ffdcc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88627e5afb40fdc8223cea76a36cfe10') in 0.023753 seconds
+  Import took 0.027180 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003285 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_9.asset
+  artifactKey: Guid(205376687734f1346a745c8159e518db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_9.asset using Guid(205376687734f1346a745c8159e518db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59c0facc9c6cbac676d3a8cb13333a48') in 0.022879 seconds
+  Import took 0.026081 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003243 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_96.asset
+  artifactKey: Guid(af8a0910cb177f44cac1cd6532b6762a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_96.asset using Guid(af8a0910cb177f44cac1cd6532b6762a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c79d467389b6d55434d663e27400d1e9') in 0.026796 seconds
+  Import took 0.030223 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003756 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_4.asset
+  artifactKey: Guid(e0f50b961fbce7541914e0fe573b08a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_4.asset using Guid(e0f50b961fbce7541914e0fe573b08a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27d752e1c8aab7d789963d595a39733c') in 0.024050 seconds
+  Import took 0.038226 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003198 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_57.asset
+  artifactKey: Guid(950a438116da369498df984621ebe5da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_57.asset using Guid(950a438116da369498df984621ebe5da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89c26e5f5a4c157a1a52bcf75c1b29dc') in 0.031426 seconds
+  Import took 0.034625 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003701 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_100.asset
+  artifactKey: Guid(0c5e4081a07ee7a4191182478a739e4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_100.asset using Guid(0c5e4081a07ee7a4191182478a739e4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e12eb266f2761affc44df55562725fc') in 0.024562 seconds
+  Import took 0.028015 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003232 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_93.asset
+  artifactKey: Guid(8068f28d3685d5847a1b094763a497a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_93.asset using Guid(8068f28d3685d5847a1b094763a497a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '346bd7b0f4fa57f8f975eaa941cbba08') in 0.025288 seconds
+  Import took 0.028866 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003437 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_63.asset
+  artifactKey: Guid(13634f354e99ae54b92008cd5e792c99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_63.asset using Guid(13634f354e99ae54b92008cd5e792c99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c1335c08937b91ca284a9886367bfb3') in 0.024497 seconds
+  Import took 0.027742 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003280 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_95.asset
+  artifactKey: Guid(7e45fe35dd6a9e148bcc604f75b2ce08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_95.asset using Guid(7e45fe35dd6a9e148bcc604f75b2ce08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0cd65293c2282b8b7c18c5700cfdfc2') in 0.023551 seconds
+  Import took 0.026893 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002949 seconds.
+  path: Assets/LICENSE.txt
+  artifactKey: Guid(1bc809c1f70dec746b0aa482cb9b8d43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LICENSE.txt using Guid(1bc809c1f70dec746b0aa482cb9b8d43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8b0aa49e6874979b9ae579a26ec184b') in 0.019725 seconds
+  Import took 0.023011 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002291 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_18.asset
+  artifactKey: Guid(b8e4a8d0a46756247b85132d7b65b50b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_18.asset using Guid(b8e4a8d0a46756247b85132d7b65b50b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9dd3043627a461c2439b2074043d3cd8') in 0.023688 seconds
+  Import took 0.026988 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004079 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_13.asset
+  artifactKey: Guid(7291d3c4313ad4649b8e70f23bbae39d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_13.asset using Guid(7291d3c4313ad4649b8e70f23bbae39d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51de167dbfd768e0223feb48d8aad712') in 0.024143 seconds
+  Import took 0.027482 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003207 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_156.asset
+  artifactKey: Guid(3b7b0c404d74a594f8f26e154d1ba7bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_156.asset using Guid(3b7b0c404d74a594f8f26e154d1ba7bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b54a00404e7d2b4e93a6aa299a486cff') in 0.025100 seconds
+  Import took 0.028436 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003046 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_219.asset
+  artifactKey: Guid(1764608f5dee43a40a42e0672b8d7f48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_219.asset using Guid(1764608f5dee43a40a42e0672b8d7f48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01bf8b757246a45da2e4b5d446a4d473') in 0.024057 seconds
+  Import took 0.027067 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002944 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_92.asset
+  artifactKey: Guid(fa8696b43d7d85742ac44d68c780de41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_92.asset using Guid(fa8696b43d7d85742ac44d68c780de41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d63c06c2f622dd0a74604f8b76f491f') in 0.024556 seconds
+  Import took 0.027939 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002979 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_152.asset
+  artifactKey: Guid(7458ad5da125366478d755826c82cb94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_152.asset using Guid(7458ad5da125366478d755826c82cb94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5c07e3cb0d073051931766698f4c359') in 0.024189 seconds
+  Import took 0.027404 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003173 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_230.asset
+  artifactKey: Guid(4eb4af1fb4fdb5f479f6db354f2ce0e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_230.asset using Guid(4eb4af1fb4fdb5f479f6db354f2ce0e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4463d5b4d159eb188a0f38010aa042d') in 0.025239 seconds
+  Import took 0.028794 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003331 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_180.asset
+  artifactKey: Guid(b6d9c532c27ea5340ad5ba0297764dfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_180.asset using Guid(b6d9c532c27ea5340ad5ba0297764dfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd57ee805fd790f2b8a32cce1440de35d') in 0.024400 seconds
+  Import took 0.027138 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003270 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_165.asset
+  artifactKey: Guid(39fd29af0a8caa74c9349b04bd674605) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_165.asset using Guid(39fd29af0a8caa74c9349b04bd674605) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91bb4f0f37700db829cafe2270f73c6b') in 0.023334 seconds
+  Import took 0.026402 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002629 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_6.asset
+  artifactKey: Guid(7b20f4ed59bf2e24cb74b1bb4914cccb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_6.asset using Guid(7b20f4ed59bf2e24cb74b1bb4914cccb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1fc9e692179bdc44d4e8ed5178039497') in 0.025251 seconds
+  Import took 0.028618 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003104 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_176.asset
+  artifactKey: Guid(819f5cedd72363945b5f9a2b3ac45973) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_176.asset using Guid(819f5cedd72363945b5f9a2b3ac45973) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f6b0ca5ac2e386847be6cf9c733834e') in 0.023897 seconds
+  Import took 0.027094 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003778 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_145.asset
+  artifactKey: Guid(e213ab628d4bb2140985a3b9b66621eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_145.asset using Guid(e213ab628d4bb2140985a3b9b66621eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5c17138dd579a851c67892cec347886') in 0.022780 seconds
+  Import took 0.025879 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003143 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_137.asset
+  artifactKey: Guid(2a8a28fc7b2fc2e4f9f774e2858e0633) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_137.asset using Guid(2a8a28fc7b2fc2e4f9f774e2858e0633) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a4f15772352d600f206f741337577f8') in 0.022992 seconds
+  Import took 0.025902 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003347 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_132.asset
+  artifactKey: Guid(61ae17f3a345f8f44a38ae2c0ad0c70c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_132.asset using Guid(61ae17f3a345f8f44a38ae2c0ad0c70c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84cf95d0c43e5710193e6c2730f53d50') in 0.023534 seconds
+  Import took 0.026749 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003143 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_101.asset
+  artifactKey: Guid(5033a0a230b23794fbdbd2d570780fd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_101.asset using Guid(5033a0a230b23794fbdbd2d570780fd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26d63788ca05366ef7be736bff313cc8') in 0.023035 seconds
+  Import took 0.026138 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003026 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_220.asset
+  artifactKey: Guid(544da37c1bcecd74ca2205ab7559067d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_220.asset using Guid(544da37c1bcecd74ca2205ab7559067d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90caae0aebb4fab52edd4536f14ad1a4') in 0.023276 seconds
+  Import took 0.026117 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003179 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_16.asset
+  artifactKey: Guid(931462b8668d44841a7f48d6d088c65f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_16.asset using Guid(931462b8668d44841a7f48d6d088c65f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1296ce8ec62e1664da892fd75000c5c0') in 0.023172 seconds
+  Import took 0.025931 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002813 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_33.asset
+  artifactKey: Guid(cf0819e21fbc63f4b8aa1edf91901fb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_33.asset using Guid(cf0819e21fbc63f4b8aa1edf91901fb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e68dbe055d1a237c986ae29527fe90b3') in 0.022562 seconds
+  Import took 0.025452 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002724 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_215.asset
+  artifactKey: Guid(d8b7d96ea3539b548b3dd1bcc4dc8abe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_215.asset using Guid(d8b7d96ea3539b548b3dd1bcc4dc8abe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd61fd2ad2594bb1cb0442e07ec3ab441') in 0.023113 seconds
+  Import took 0.025760 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003042 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_41.asset
+  artifactKey: Guid(81be4f777d0f72d4f83342b4e8092e91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_41.asset using Guid(81be4f777d0f72d4f83342b4e8092e91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d58e8fca5b56a6f318909d8f3bf999e') in 0.024630 seconds
+  Import took 0.027309 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002952 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles
+  artifactKey: Guid(047bb15bc563b704b9d66a7f1770025c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles using Guid(047bb15bc563b704b9d66a7f1770025c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0bed6ca47ac99fa708700f91ecf949bd') in 0.019341 seconds
+  Import took 0.021883 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002521 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_78.asset
+  artifactKey: Guid(7e11693499ebd0445951a199ba3c258d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_78.asset using Guid(7e11693499ebd0445951a199ba3c258d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2be4cb27b9d55adab7aa3f16efb511ef') in 0.024192 seconds
+  Import took 0.027858 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003587 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_175.asset
+  artifactKey: Guid(2e4eb0b74b3821a4787167490ad2ab96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_175.asset using Guid(2e4eb0b74b3821a4787167490ad2ab96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '059413d7b0ddb48764acaaff754d47df') in 0.025339 seconds
+  Import took 0.028506 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003186 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_80.asset
+  artifactKey: Guid(d940c4737ac48204f95592fcc6eeed59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_80.asset using Guid(d940c4737ac48204f95592fcc6eeed59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9de5d8a2afa1fd06f447c4668fff84c') in 0.025656 seconds
+  Import took 0.028987 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.073500 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_133.asset
+  artifactKey: Guid(6c8ada078d24db84e8e6d355e085195c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_133.asset using Guid(6c8ada078d24db84e8e6d355e085195c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4664b89ff3e84c512537c1366089d1d') in 0.026707 seconds
+  Import took 0.030097 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003237 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_242.asset
+  artifactKey: Guid(4426dcf4aa124dd46859297934240f74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_242.asset using Guid(4426dcf4aa124dd46859297934240f74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0c2fab049348b6b942269e7ac2c64b4') in 0.024110 seconds
+  Import took 0.027044 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.125285 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_21.asset
+  artifactKey: Guid(61aacb2d79c0c2044ba9ec7d079e5575) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_21.asset using Guid(61aacb2d79c0c2044ba9ec7d079e5575) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3cbeb743d49782c621ffb70b4d570705') in 0.023898 seconds
+  Import took 0.049321 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003818 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_226.asset
+  artifactKey: Guid(9acbd25127e9bd549943145fed70fb0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_226.asset using Guid(9acbd25127e9bd549943145fed70fb0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '420ce91e90e955031c18b22890167535') in 0.023887 seconds
+  Import took 0.027315 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004484 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest.prefab
+  artifactKey: Guid(0ccc708c4ba7e2e4a9d5b296362c1dc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest.prefab using Guid(0ccc708c4ba7e2e4a9d5b296362c1dc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10ecae6605a39487f675528ebba79676') in 0.027162 seconds
+  Import took 0.030777 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002295 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_65.asset
+  artifactKey: Guid(5186c3fb359216841a7be50fd06fd299) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_65.asset using Guid(5186c3fb359216841a7be50fd06fd299) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '973e48e048fc3d5b6cdbbd63b6ffd2c2') in 0.024548 seconds
+  Import took 0.028098 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003544 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_201.asset
+  artifactKey: Guid(4cf80811838c48b44a0d57f07e0bfd94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_201.asset using Guid(4cf80811838c48b44a0d57f07e0bfd94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df43d61ac5273f6dcb5d2249705557d4') in 0.023484 seconds
+  Import took 0.026585 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003210 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_249.asset
+  artifactKey: Guid(ca435e296243c7a438c07ee469ac17fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_249.asset using Guid(ca435e296243c7a438c07ee469ac17fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dbc9044551d695feea26abc72b379229') in 0.024927 seconds
+  Import took 0.028155 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003307 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_237.asset
+  artifactKey: Guid(2796fe28ec82f9540810619e1b02ae0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_237.asset using Guid(2796fe28ec82f9540810619e1b02ae0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe6a3afe729e1d9829ea7d6309431e68') in 0.024473 seconds
+  Import took 0.027470 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003314 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_11.asset
+  artifactKey: Guid(50d591a99e9f44b42a51e04517a179d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_11.asset using Guid(50d591a99e9f44b42a51e04517a179d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '323d3802ec3dae0b9e31c4b593797fb2') in 0.023280 seconds
+  Import took 0.026467 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002995 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_260.asset
+  artifactKey: Guid(d478d3f94ed3dfb4e9e583f4aef82af4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_260.asset using Guid(d478d3f94ed3dfb4e9e583f4aef82af4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a254dd6671a53ec6d6a919562e6f0471') in 0.022885 seconds
+  Import took 0.025694 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002976 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_119.asset
+  artifactKey: Guid(f19ed59b4591b49449b3a10096512ba2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_119.asset using Guid(f19ed59b4591b49449b3a10096512ba2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e3ddec8067c1fa00adb13ceb1cd74a2') in 0.023263 seconds
+  Import took 0.026516 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003277 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_164.asset
+  artifactKey: Guid(208bc302d1f2cea4a8116b07d3b0b626) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_164.asset using Guid(208bc302d1f2cea4a8116b07d3b0b626) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f463f34f38465651ed0948b6e2570cb') in 0.022671 seconds
+  Import took 0.025726 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002651 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_217.asset
+  artifactKey: Guid(593073568cc176b4cb38d6ebeae04fd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_217.asset using Guid(593073568cc176b4cb38d6ebeae04fd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fdffe8261959d45896eadc05a93ec2e1') in 0.022754 seconds
+  Import took 0.025661 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004305 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_62.asset
+  artifactKey: Guid(6306393790b07cc4fa913141259ba748) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_62.asset using Guid(6306393790b07cc4fa913141259ba748) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb0b2a85a592783ee7002537700734df') in 0.023338 seconds
+  Import took 0.025915 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002931 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_256.asset
+  artifactKey: Guid(e3205f5014e6c6c43ba34c596fcc5916) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_256.asset using Guid(e3205f5014e6c6c43ba34c596fcc5916) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9b76f75e961bf1b72608ee336d50c9f') in 0.022913 seconds
+  Import took 0.026259 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002875 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_81.asset
+  artifactKey: Guid(0a655e462290c2149900cec3685c6502) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_81.asset using Guid(0a655e462290c2149900cec3685c6502) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f399b23bf12bb13f50e3d316f9dcd0df') in 0.023266 seconds
+  Import took 0.026644 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002889 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_166.asset
+  artifactKey: Guid(b1b97cdd338a69f4da4c4105593898d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_166.asset using Guid(b1b97cdd338a69f4da4c4105593898d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '644df438b4a73b537639765b0b547fc8') in 0.023337 seconds
+  Import took 0.026841 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003016 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_29.asset
+  artifactKey: Guid(4e60cc974ae2eeb4c8643c43a861463e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_29.asset using Guid(4e60cc974ae2eeb4c8643c43a861463e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7637922f85ad5ebcb7fb60440bfa9eeb') in 0.023797 seconds
+  Import took 0.026991 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003496 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_161.asset
+  artifactKey: Guid(bed9d199ed261af46a5c19f4b33eb485) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_161.asset using Guid(bed9d199ed261af46a5c19f4b33eb485) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5332a344850f5c6e288da328e1b9c9e3') in 0.023527 seconds
+  Import took 0.026974 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002837 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_129.asset
+  artifactKey: Guid(630640afa96b9f243b27dd592f33bbfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_129.asset using Guid(630640afa96b9f243b27dd592f33bbfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '208dae4ca4a34c4c1d9dff9b7795db49') in 0.031243 seconds
+  Import took 0.035118 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003387 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_159.asset
+  artifactKey: Guid(6030b1106c7b435419274fd989edfc09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_159.asset using Guid(6030b1106c7b435419274fd989edfc09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7531cc8bcdd101f168bb5278089ccdf') in 0.024297 seconds
+  Import took 0.027639 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003597 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_121.asset
+  artifactKey: Guid(9a490035701c13d4fb5f627547e51375) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_121.asset using Guid(9a490035701c13d4fb5f627547e51375) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33e8f02c4bc364c84fe3ff3bb09e6e35') in 0.025039 seconds
+  Import took 0.028302 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003515 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_160.asset
+  artifactKey: Guid(993ad82952d13224e9325e360c8da8ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_160.asset using Guid(993ad82952d13224e9325e360c8da8ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38f8d96343d8ef2e5f5b100b81c77ff6') in 0.024441 seconds
+  Import took 0.027971 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002877 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_181.asset
+  artifactKey: Guid(67d0c566638c70845b89fe92fa001516) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_181.asset using Guid(67d0c566638c70845b89fe92fa001516) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5438360dc08b713c80069e2e278e55a5') in 0.024248 seconds
+  Import took 0.027622 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003045 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_243.asset
+  artifactKey: Guid(3cb7809e29b9519478b0ccbd7821e0f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_243.asset using Guid(3cb7809e29b9519478b0ccbd7821e0f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8df405c09b188df70a9fbec7295a3f2') in 0.023298 seconds
+  Import took 0.026600 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002957 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_266.asset
+  artifactKey: Guid(eea5412b7f795b24e8d2f4f7414b4025) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_266.asset using Guid(eea5412b7f795b24e8d2f4f7414b4025) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87e7d50496b747ebeb763b7ede1e17d1') in 0.024913 seconds
+  Import took 0.027625 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002922 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_265.asset
+  artifactKey: Guid(ab68ecc05d983b14ab8c5ff23e9db6ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_265.asset using Guid(ab68ecc05d983b14ab8c5ff23e9db6ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '235a6370d4eecbce14c704ca0fa239f3') in 0.023257 seconds
+  Import took 0.026034 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003373 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_68.asset
+  artifactKey: Guid(5a429ae36ac874d45944dfefa95c2bb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_68.asset using Guid(5a429ae36ac874d45944dfefa95c2bb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54be1b23dc9ac9c67834b585c2baacff') in 0.022952 seconds
+  Import took 0.025561 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.013991 seconds.
+  path: Assets/Scripts/Animations/PlayerAnimations.cs
+  artifactKey: Guid(b65747c3927e2d143aedfd3950313012) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Animations/PlayerAnimations.cs using Guid(b65747c3927e2d143aedfd3950313012) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63b1dfbab31ab4ca3a4ebb51079741cf') in 0.022753 seconds
+  Import took 0.026134 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002253 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_67.asset
+  artifactKey: Guid(121fbcf98efe67644840374af48a7211) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_67.asset using Guid(121fbcf98efe67644840374af48a7211) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d5692daffd7ee76b16f918b10fc9107') in 0.024031 seconds
+  Import took 0.027504 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003312 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_235.asset
+  artifactKey: Guid(2ea94f2ff3ac108479a2a5a4d6539637) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_235.asset using Guid(2ea94f2ff3ac108479a2a5a4d6539637) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1467b4d618d77f4e035fccf5713e6c8e') in 0.025307 seconds
+  Import took 0.028298 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002937 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_213.asset
+  artifactKey: Guid(d1312e87066b5194fab77cd1720e0fcb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_213.asset using Guid(d1312e87066b5194fab77cd1720e0fcb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2db84a3d5b7ce4615124fe0d50b9831b') in 0.022754 seconds
+  Import took 0.025810 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002636 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_109.asset
+  artifactKey: Guid(c55f2872bde70c24b957cc04803928e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_109.asset using Guid(c55f2872bde70c24b957cc04803928e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77e0fa564bfb4ad56b889f075ce7c7f0') in 0.023099 seconds
+  Import took 0.026054 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003162 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_262.asset
+  artifactKey: Guid(165e47b1c55c387439507d09bf9575a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_262.asset using Guid(165e47b1c55c387439507d09bf9575a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0ebc3fbaa26b1bf9b35ad3093f5c5ae') in 0.022538 seconds
+  Import took 0.025563 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002833 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_44.asset
+  artifactKey: Guid(4439de43d6ea70748a8dd25dfaddccd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_44.asset using Guid(4439de43d6ea70748a8dd25dfaddccd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ffd6ac1791ad618ecaee91f104a23571') in 0.023054 seconds
+  Import took 0.025883 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002896 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_54.asset
+  artifactKey: Guid(e790cafcf1d955940b359b41ad3aa5d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_54.asset using Guid(e790cafcf1d955940b359b41ad3aa5d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e750130c3a9018e22c39398dc29a3162') in 0.023220 seconds
+  Import took 0.026017 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003160 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_58.asset
+  artifactKey: Guid(41bfc3488170adf47982338f00bad236) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_58.asset using Guid(41bfc3488170adf47982338f00bad236) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2fb889141066ecd82e57c5e4e1981cf') in 0.022771 seconds
+  Import took 0.025996 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003243 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_53.asset
+  artifactKey: Guid(113200ed379503945aaa5aea785bd4b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_53.asset using Guid(113200ed379503945aaa5aea785bd4b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28b4e68c7a60477f982cab959b01c174') in 0.022409 seconds
+  Import took 0.025518 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003000 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_231.asset
+  artifactKey: Guid(064b24868f7b9de4fbe39cd35b94a279) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_231.asset using Guid(064b24868f7b9de4fbe39cd35b94a279) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '335d59068fa68f85ebf04ed4bd2973a2') in 0.024229 seconds
+  Import took 0.027215 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002944 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_124.asset
+  artifactKey: Guid(635611b56605b364ba13ccac651bf117) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_124.asset using Guid(635611b56605b364ba13ccac651bf117) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4d1516c3b72f7b08e28d878e1521a3e') in 0.025785 seconds
+  Import took 0.029013 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003520 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_209.asset
+  artifactKey: Guid(4bf2463284a130b48895227efe1026d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_209.asset using Guid(4bf2463284a130b48895227efe1026d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55b7299a804f9db6368640c3d735a0ac') in 0.026398 seconds
+  Import took 0.029819 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002588 seconds.
+  path: Assets/Sprites/Tileset
+  artifactKey: Guid(73ed606d7a0a0dc4da501acfbb2d28c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset using Guid(73ed606d7a0a0dc4da501acfbb2d28c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a7dc2dc92aa5200dc22450538cde732') in 0.019850 seconds
+  Import took 0.022992 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002715 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_130.asset
+  artifactKey: Guid(931ccaf1bf2d42b46b5356fc3a5bb0a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_130.asset using Guid(931ccaf1bf2d42b46b5356fc3a5bb0a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a5fb9feeb9e646bd02affd0e4a0c64a') in 0.025036 seconds
+  Import took 0.028174 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003482 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_206.asset
+  artifactKey: Guid(91858565e8fd3b2439bd3bb6d7ca1a63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_206.asset using Guid(91858565e8fd3b2439bd3bb6d7ca1a63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '850e350f41f6149e9d1a9d9df92c6be9') in 0.024939 seconds
+  Import took 0.028304 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002705 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_254.asset
+  artifactKey: Guid(f384076fd66bb7c478ee7e20589594e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_254.asset using Guid(f384076fd66bb7c478ee7e20589594e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '862e38ed3b33330c7137a126985800a8') in 0.023457 seconds
+  Import took 0.026851 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002867 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_72.asset
+  artifactKey: Guid(79847dc4c6094044998df59bce9fee8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_72.asset using Guid(79847dc4c6094044998df59bce9fee8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a3e49fe6ea77ba10e91659355ed052e') in 0.024059 seconds
+  Import took 0.027436 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003695 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_40.asset
+  artifactKey: Guid(16bae5ffd5d75034eb510e3965f61e8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_40.asset using Guid(16bae5ffd5d75034eb510e3965f61e8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4881b11b49317ca2c47712f359e290d') in 0.023810 seconds
+  Import took 0.026750 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003365 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_90.asset
+  artifactKey: Guid(1cba2a21640bc4148a6c800f27f39d6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_90.asset using Guid(1cba2a21640bc4148a6c800f27f39d6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f68a54b6d4c4fa2b656c5df4f425c553') in 0.023183 seconds
+  Import took 0.025883 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002884 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_247.asset
+  artifactKey: Guid(e797cdab57f3bee42bd2c888c3a61222) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_247.asset using Guid(e797cdab57f3bee42bd2c888c3a61222) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ebdc09ad100225b6ad4e2ecd9b8dfd36') in 0.022920 seconds
+  Import took 0.025762 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003253 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_208.asset
+  artifactKey: Guid(9951c6c3190d67b4297832c7eb2b20ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_208.asset using Guid(9951c6c3190d67b4297832c7eb2b20ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6818de6852e69d436423770c14ae1d15') in 0.023481 seconds
+  Import took 0.026807 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002625 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_202.asset
+  artifactKey: Guid(06764b02b2ae0474b91f6a18a2d577d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_202.asset using Guid(06764b02b2ae0474b91f6a18a2d577d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dbfc4b2098dcaf3b961ab219b324ef5e') in 0.024082 seconds
+  Import took 0.027197 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003132 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_174.asset
+  artifactKey: Guid(551e1b8fc3e55f4439226e836e6bebb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_174.asset using Guid(551e1b8fc3e55f4439226e836e6bebb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd53820a86837f422f5eaeee6f70db0a7') in 0.023355 seconds
+  Import took 0.026291 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006669 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_34.asset
+  artifactKey: Guid(9103dc27f86cf0444bb8e4a5708e4009) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_34.asset using Guid(9103dc27f86cf0444bb8e4a5708e4009) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '282b0fccf87a7f6a67a5fc4d03b749c5') in 0.023232 seconds
+  Import took 0.026477 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003083 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_157.asset
+  artifactKey: Guid(17ab6dff39b6a9d4796629d7a794c138) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_157.asset using Guid(17ab6dff39b6a9d4796629d7a794c138) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd736b9e4322289f39a4f6d411db67832') in 0.022616 seconds
+  Import took 0.025753 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002848 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_88.asset
+  artifactKey: Guid(547788d1ab8097c4e8dbcc0793707649) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_88.asset using Guid(547788d1ab8097c4e8dbcc0793707649) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bac84d61b48f52db828fb27976e57b2b') in 0.023776 seconds
+  Import took 0.026988 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003216 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_28.asset
+  artifactKey: Guid(93d3fd26446bea34194917bb44e8ae8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_28.asset using Guid(93d3fd26446bea34194917bb44e8ae8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a728088b08abccf252f699ea9e715f39') in 0.023473 seconds
+  Import took 0.026888 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002559 seconds.
+  path: Assets/Sprites/Materials
+  artifactKey: Guid(c8306c460dab711488571a811f7d8847) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Materials using Guid(c8306c460dab711488571a811f7d8847) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee3fe7b377d208509e992a2f28593786') in 0.018732 seconds
+  Import took 0.021962 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002326 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_17.asset
+  artifactKey: Guid(749206d28fa246f4e95c33cab0c46c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_17.asset using Guid(749206d28fa246f4e95c33cab0c46c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26d77f5396d735842167f2569340f69d') in 0.023019 seconds
+  Import took 0.026177 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002850 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_35.asset
+  artifactKey: Guid(5684b5dbae2693144a576dc8c18e6586) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_35.asset using Guid(5684b5dbae2693144a576dc8c18e6586) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2820f2234a00abfb49d1df3b8fd7b61c') in 0.023279 seconds
+  Import took 0.026399 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002899 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_113.asset
+  artifactKey: Guid(a39006f7d5eb29c4382e07e501cca5af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_113.asset using Guid(a39006f7d5eb29c4382e07e501cca5af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '834369105205f0b0c2afc436290c91ac') in 0.023039 seconds
+  Import took 0.026412 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002943 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_163.asset
+  artifactKey: Guid(cfff3ca2edd130e44be1df90c3225c1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_163.asset using Guid(cfff3ca2edd130e44be1df90c3225c1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d262961e9d7a56f8a690450d135a008') in 0.022519 seconds
+  Import took 0.025079 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003091 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_86.asset
+  artifactKey: Guid(68126a751e7b40f4daf2a0f6418ab071) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_86.asset using Guid(68126a751e7b40f4daf2a0f6418ab071) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '649ffaf0a9c988f8cf341745ae8281ba') in 0.022481 seconds
+  Import took 0.025535 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002968 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_55.asset
+  artifactKey: Guid(a78b025135e55c749b94662847f696e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_55.asset using Guid(a78b025135e55c749b94662847f696e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c91c7852880c386d24421cc3fcd95c3c') in 0.022011 seconds
+  Import took 0.024679 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003502 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_269.asset
+  artifactKey: Guid(6b04f094ec1803544841d1a3d5dbe0f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_269.asset using Guid(6b04f094ec1803544841d1a3d5dbe0f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d485a930ce467b78df9e48dfd71836d') in 0.023543 seconds
+  Import took 0.026782 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003321 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_32.asset
+  artifactKey: Guid(20dc506e762aa0147adcab7dbe36e02f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_32.asset using Guid(20dc506e762aa0147adcab7dbe36e02f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41e14364580705f1c5db4550aca6881d') in 0.023177 seconds
+  Import took 0.026196 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004105 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_167.asset
+  artifactKey: Guid(b5990710a75148d408c3e4a54b1ec5e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_167.asset using Guid(b5990710a75148d408c3e4a54b1ec5e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9594cfebf019b120a2839a9fd111fe5e') in 0.022965 seconds
+  Import took 0.026219 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.019058 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_177.asset
+  artifactKey: Guid(8b25fe7c721ee3b4a8bdd1da5fe35f3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_177.asset using Guid(8b25fe7c721ee3b4a8bdd1da5fe35f3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b55a8508a93437c6502c99e1bc04032c') in 0.022943 seconds
+  Import took 0.025959 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002877 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_252.asset
+  artifactKey: Guid(049935863377d764d84e9edadc051706) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_252.asset using Guid(049935863377d764d84e9edadc051706) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5dd664a421ef4979fd26e4bdde77e5b4') in 0.023293 seconds
+  Import took 0.026131 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002727 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_188.asset
+  artifactKey: Guid(d3d6be3805957aa4596e8dd9cdd29ca7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_188.asset using Guid(d3d6be3805957aa4596e8dd9cdd29ca7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dfd2ac5049e7978fce1d4c547535342b') in 0.023006 seconds
+  Import took 0.025818 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002945 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_142.asset
+  artifactKey: Guid(7a7d869622e5d8d4c8b98f9c9a152048) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_142.asset using Guid(7a7d869622e5d8d4c8b98f9c9a152048) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f805a09fda60d0413d3417cc8b19e0b') in 0.024418 seconds
+  Import took 0.027689 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002868 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_261.asset
+  artifactKey: Guid(1b4d8c36e37aea642bac7d51997f08fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_261.asset using Guid(1b4d8c36e37aea642bac7d51997f08fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22ea01d555dcd24fe8f0b38ffd2bf2e6') in 0.023720 seconds
+  Import took 0.027242 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003384 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_189.asset
+  artifactKey: Guid(2430114d14277a446940ca0c184cc3aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_189.asset using Guid(2430114d14277a446940ca0c184cc3aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd8c1dc70f82e34d3a9e01844f4cef0c') in 0.024400 seconds
+  Import took 0.027635 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002848 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_267.asset
+  artifactKey: Guid(ee13aab6c6c554048948fdbf277419c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_267.asset using Guid(ee13aab6c6c554048948fdbf277419c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54b59a45bfea0eb77ab0b5ebcedcde7a') in 0.023552 seconds
+  Import took 0.026701 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003011 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_171.asset
+  artifactKey: Guid(8ff5b1f4f9ebb074baa81ba0f9601747) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_171.asset using Guid(8ff5b1f4f9ebb074baa81ba0f9601747) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3830eb9e5e9a577af65a0f7f4842a021') in 0.023118 seconds
+  Import took 0.026392 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002986 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_60.asset
+  artifactKey: Guid(08762547af32a094783ce451b5ba7301) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_60.asset using Guid(08762547af32a094783ce451b5ba7301) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fdddbb5dda0b92cd82b9ce9fc6b0410b') in 0.022524 seconds
+  Import took 0.025457 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003050 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_257.asset
+  artifactKey: Guid(b727019a2f25444408dd2b5441c7463a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_257.asset using Guid(b727019a2f25444408dd2b5441c7463a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '772572317a0003f87864a3b07699994e') in 0.022924 seconds
+  Import took 0.025761 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.017057 seconds.
+  path: Assets/Scripts/Movements/PlayerMovement.cs
+  artifactKey: Guid(51592049106d1a44aa129998d0a7f820) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Movements/PlayerMovement.cs using Guid(51592049106d1a44aa129998d0a7f820) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a31c1287b7c2d4935fb430159ee0ce3') in 0.020735 seconds
+  Import took 0.024060 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002839 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_14.asset
+  artifactKey: Guid(c5d556bab65b4b74a8fdff1d4e60a7bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_14.asset using Guid(c5d556bab65b4b74a8fdff1d4e60a7bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f619d62524252ae71c09407485dd0774') in 0.024563 seconds
+  Import took 0.027895 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003380 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_135.asset
+  artifactKey: Guid(930c1016e0861184e84d342a1cc9a06a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_135.asset using Guid(930c1016e0861184e84d342a1cc9a06a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5495b25a74ec1097f3fe73cfc4b0b504') in 0.025184 seconds
+  Import took 0.028781 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003533 seconds.
+  path: Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_69.asset
+  artifactKey: Guid(e7bf28ddf8765d04db60f2685f92799f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tileset/Dark Forest Tiles/Dark Forest_69.asset using Guid(e7bf28ddf8765d04db60f2685f92799f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8097f251a96e2c932927085261135a8f') in 0.025974 seconds
+  Import took 0.029533 seconds .
+
